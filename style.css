@@ -1,0 +1,130 @@
+body{
+    color:#211103;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    background-image: url(obrazky/pozadie2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.aktualna-pozicia,
+.kurzy{
+    text-align: center;
+}
+
+header{
+    background-color: #211103;
+    color:#D5BDAF;
+    padding: 70px 300px;
+}
+
+table{
+    border-spacing: 0;
+}
+
+td{
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 10px 0;
+}
+
+th{
+    text-align: left; 
+}
+
+.stupen{
+    text-align:right;
+    padding-left: 50px;
+}
+
+.putirkova-foto{
+    width: 350px;
+    border-radius: 50%;
+    float: left;
+    padding: 70px 15% 70px 15%;
+}
+
+.vzdelanie{
+    clear: left
+}
+
+.zrucnosti,
+.jazyky{
+    background-color: #e4d5cc;
+}
+
+
+.kontakt{
+    background-color: #281205;
+    color: #D5BDAF;
+    padding: 15px 0 40px 0;
+    text-align: center;
+    clear: left;
+    font-size: 15px;
+}
+
+a{
+    color: #e3d5ca;
+}
+
+.zrucnosti{
+    float: left;
+    clear: left;
+    padding: 10px 15% 40px 15%;
+}
+
+.vzdelanie,
+.pracovne-skusenosti,
+.kurzy{
+    padding: 10px 15% 10px 15%;
+}
+
+.pozicia{
+    font-style: italic;
+}
+
+.jazyky{
+    padding-bottom: 105px;
+}
+
+.omne{
+    padding: 70px 15% 40px 0;
+}
+
+footer{
+    background-color: #211103;
+    color: #D5BDAF;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    font-size: 10px;
+}
+
+.menu li{
+  display: inline-block
+}
+
+.menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #D0B5B0;
+}
+
+.menu a {
+    display: inline-block;
+    color: #211103;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover{
+    background-color: #e4d5cc;
+}
