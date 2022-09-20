@@ -38,6 +38,7 @@ td{
 
 th{
     text-align: left; 
+    font-size: 30px;
 }
 
 .stupen{
@@ -78,7 +79,7 @@ a{
 .zrucnosti{
     float: left;
     clear: left;
-    padding: 10px 15% 40px 15%;
+    padding: 40px 15% 40px 15%;
 }
 
 .vzdelanie,
@@ -93,6 +94,7 @@ a{
 
 .jazyky{
     padding-bottom: 105px;
+    padding-top: 40px;
 }
 
 .omne{
